@@ -1,8 +1,7 @@
 # Project02-SpaceShooter
 
 # Project Name
-Context and date
-Description
+Extra points: Background (+1), Music (+1), Different assets found online (+1)
 ## Implementation
 ## References
 
