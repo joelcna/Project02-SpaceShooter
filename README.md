@@ -1,6 +1,4 @@
 # Project02-SpaceShooter
-
-# Project Name
 Extra points: Background (+1), Music (+1), Different assets found online (+1)
 ## Implementation
 ## References
